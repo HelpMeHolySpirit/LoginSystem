@@ -5,7 +5,7 @@ public class IDandPassword {
     IDandPassword(){
         loginInfo.put("Krysia", "Brzoskwinka");
         loginInfo.put("Mariusz", "Password");
-        loginInfo.put("Klaudia", "Malinka");
+        loginInfo.put("a", "a");
     }
 
     protected HashMap<String, String> getLoginInfo() {
